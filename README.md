@@ -10,4 +10,6 @@ Hello! I'm software engineering student.
 - Python
 - Web Development 
 ## Weekly Progress
--  Week 1: Created my first repository and set up the README file.
+ Week 1: Created my first repository and set up the README file.
+- Using branches and Pull Requests.
+- Planning a simple Python project.
