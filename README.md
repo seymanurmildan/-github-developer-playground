@@ -13,3 +13,4 @@ Hello! I'm software engineering student.
  Week 1: Created my first repository and set up the README file.
 - Using branches and Pull Requests.
 - Planning a simple Python project.
+- Week 1: Completed the Branch and PR exercise.
